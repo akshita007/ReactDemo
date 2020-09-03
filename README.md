@@ -1,2 +1,2 @@
 # ReactDemo
-React app for calculation loan amount for learning js and react
+React app for calculating loan amount for learning js and react
